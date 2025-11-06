@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Bandarupally
+- 👋 Hi, I’m @ Krishna Bandarupally
 - 👀 I’m interested in Product Management, Artificial Intelligence, Machine Learning
-- 🌱 I’m currently learning basics of AI and ML
+- 🌱 I’m Passionate about AI and ML
 - 💞️ I’m looking to collaborate on AI and ML
 - 📫 How to reach me 781-521-0812
 - 😄 Pronouns: ...
